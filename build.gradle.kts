@@ -11,8 +11,10 @@ repositories {
 
 dependencies {
     val arkenvVersion = "3.3.3"
+    val gsonVersion = "2.8.2"
 
     implementation("com.apurebase:arkenv:$arkenvVersion")
+    implementation("com.google.code.gson:gson:$gsonVersion")
 }
 
 tasks {

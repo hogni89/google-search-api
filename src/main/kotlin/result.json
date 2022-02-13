@@ -1,0 +1,815 @@
+{
+  "request": {
+    "success": true,
+    "total_time_taken": 2.9,
+    "processed_timestamp": 1644757536,
+    "search_url": "http://www.google.com/search?q=psykolog+klinik+g%C3%B6teborg\u0026gl=se\u0026hl=en\u0026safe=0\u0026num=2000"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "type": "web",
+    "device": "desktop",
+    "auto_location": "1",
+    "google_domain": "google.com",
+    "gl": "se",
+    "hl": "en",
+    "safe": "0",
+    "news_type": "all",
+    "exclude_autocorrected_results": "0",
+    "images_color": "any",
+    "page": "1",
+    "num": "2000",
+    "output": "json",
+    "csv_fields": "search_parameters.query,organic_results.position,organic_results.title,organic_results.url,organic_results.domain",
+    "query": "psykolog klinik g\u00f6teborg",
+    "action": "search",
+    "access_key": "1f1e0a65e02dd6d6201007473fc47fd2",
+    "error": {}
+  },
+  "search_information": {
+    "total_results": 63,
+    "time_taken_displayed": 0.61,
+    "detected_location": {},
+    "did_you_mean": {},
+    "no_results_for_original_query": false,
+    "query_displayed": "psykolog klinik g\u00f6teborg",
+    "showing_results_for": {}
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Psykologos: Psykologer i G\u00f6teborg | Legitimerad psykolog",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://psykologos.se/",
+      "domain": "psykologos.se",
+      "displayed_url": "https://psykologos.se"
+    },
+    {
+      "position": 2,
+      "title": "Boka Psykolog i G\u00f6teborg | V\u00e5rdgivare n\u00e4ra dig - V\u00e5rden.se",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.varden.se/hitta/psykolog-c/g%C3%B6teborg-p",
+      "domain": "www.varden.se",
+      "displayed_url": "https://www.varden.se \u203a Psykolog"
+    },
+    {
+      "position": 3,
+      "title": "Psykologer i G\u00f6teborg - Ahum",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.ahum.se/psykologer-i-goteborg/",
+      "domain": "www.ahum.se",
+      "displayed_url": "https://www.ahum.se \u203a psykologer-i-..."
+    },
+    {
+      "position": 4,
+      "title": "V\u00e5ra psykologer erbjuder samtalsterapi \u0026 KBT - Din Klinik",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.dinklinik.se/mottagning/terapimottagningen",
+      "domain": "www.dinklinik.se",
+      "displayed_url": "https://www.dinklinik.se \u203a mottagning"
+    },
+    {
+      "position": 5,
+      "title": "MOD KBT - Legitimerade psykologer i centrala G\u00f6teborg",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.modkbt.se/",
+      "domain": "www.modkbt.se",
+      "displayed_url": "https://www.modkbt.se"
+    },
+    {
+      "position": 6,
+      "title": "Psykoterapimottagningen - G\u00f6teborgs universitet",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.gu.se/psykologi/om-oss/psykoterapimottagningen",
+      "domain": "www.gu.se",
+      "displayed_url": "https://www.gu.se \u203a om-oss \u203a psykot..."
+    },
+    {
+      "position": 7,
+      "title": "Samtalsmottagning Avenyn - Kvarterskliniken",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://kvarterskliniken.se/vard-halsa/samtalsmottagning-goteborg/",
+      "domain": "kvarterskliniken.se",
+      "displayed_url": "https://kvarterskliniken.se \u203a vard-halsa"
+    },
+    {
+      "position": 8,
+      "title": "WeMind G\u00f6teborg",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.wemind.se/mottagning/goteborg",
+      "domain": "www.wemind.se",
+      "displayed_url": "https://www.wemind.se \u203a goteborg"
+    },
+    {
+      "position": 9,
+      "title": "Psykologer G\u00f6teborg (139 S\u00f6ktr\u00e4ffar) - F\u00f6retag | hitta.se",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.hitta.se/psykologer+g%C3%B6teborg/f%C3%B6retag/2",
+      "domain": "www.hitta.se",
+      "displayed_url": "https://www.hitta.se \u203a f\u00f6retag"
+    },
+    {
+      "position": 10,
+      "title": "Psykologgruppen | Kristinelundskliniken",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://kristinelundskliniken.se/vi-pa-kliniken/psykologgruppen/",
+      "domain": "kristinelundskliniken.se",
+      "displayed_url": "https://kristinelundskliniken.se \u203a psyk..."
+    },
+    {
+      "position": 11,
+      "title": "PTSDcentrum | KBT Psykologer G\u00f6teborg",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "http://www.ptsdcentrum.se/",
+      "domain": "www.ptsdcentrum.se",
+      "displayed_url": "http://www.ptsdcentrum.se"
+    },
+    {
+      "position": 12,
+      "title": "Cadena Psykolog: Bepr\u00f6vad terapi utifr\u00e5n ACT",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://cadenapsykolog.se/",
+      "domain": "cadenapsykolog.se",
+      "displayed_url": "https://cadenapsykolog.se"
+    },
+    {
+      "position": 13,
+      "title": "Psykologoteket - Tr\u00e4ffa leg. psykolog",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.psykologoteket.se/",
+      "domain": "www.psykologoteket.se",
+      "displayed_url": "https://www.psykologoteket.se"
+    },
+    {
+      "position": 14,
+      "title": "Stefan Andersson Psykolog: Ett samtal med dig i fokus",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.stefananderssonsklinik.se/",
+      "domain": "www.stefananderssonsklinik.se",
+      "displayed_url": "https://www.stefananderssonsklinik.se"
+    },
+    {
+      "position": 15,
+      "title": "Psykologmottagning | ValandKliniken AB",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.valandkliniken.se/psykologmottagning/",
+      "domain": "www.valandkliniken.se",
+      "displayed_url": "https://www.valandkliniken.se \u203a psyk..."
+    },
+    {
+      "position": 16,
+      "title": "Prata med en psykolog i G\u00f6teborg - Mindler",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://mindler.se/psykolog-i-goteborg/",
+      "domain": "mindler.se",
+      "displayed_url": "https://mindler.se \u203a psykolog-i-goteb..."
+    },
+    {
+      "position": 17,
+      "title": "Psykiatrimottagning Centrum - Sahlgrenska ...",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.sahlgrenska.se/omraden/omrade-2/psykiatri-affektiva/enheter/psykiatrimottagning-centrum/",
+      "domain": "www.sahlgrenska.se",
+      "displayed_url": "https://www.sahlgrenska.se \u203a enheter"
+    },
+    {
+      "position": 18,
+      "title": "V\u00e5ra mottagningar \u0026 kontakt - Modigo",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.modigo.se/vara-mottagningar/",
+      "domain": "www.modigo.se",
+      "displayed_url": "https://www.modigo.se \u203a vara-mottag..."
+    },
+    {
+      "position": 19,
+      "title": "Hj\u00e4lp mot IBS med KBT hos psykolog - Scandinavian Gastro ...",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://scandinaviangastroclinic.se/specialistvard/kbt-psykolog/",
+      "domain": "scandinaviangastroclinic.se",
+      "displayed_url": "https://scandinaviangastroclinic.se \u203a k..."
+    },
+    {
+      "position": 20,
+      "title": "Samtalskontakt - Nordic IVF G\u00f6teborg",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://nordicivf.se/goteborg/samtalskontakt/",
+      "domain": "nordicivf.se",
+      "displayed_url": "https://nordicivf.se \u203a goteborg \u203a samt..."
+    },
+    {
+      "position": 21,
+      "title": "Psykolog G\u00f6teborg | Adiels Psykolog",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://adielspsykolog.com/",
+      "domain": "adielspsykolog.com",
+      "displayed_url": "https://adielspsykolog.com"
+    },
+    {
+      "position": 22,
+      "title": "V\u00e5ra leg. psykologer \u0026 leg. psykoterapeuter - Sveapsykologerna",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://sveapsykologerna.se/omoss",
+      "domain": "sveapsykologerna.se",
+      "displayed_url": "https://sveapsykologerna.se \u203a omoss"
+    },
+    {
+      "position": 23,
+      "title": "Psykolog p\u00e5 v\u00e5rdcentral jobb G\u00f6teborg - 169 aktuella lediga ...",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://se.jooble.org/jobb-psykolog-p%C3%A5-v%C3%A5rdcentral/G%C3%B6teborg",
+      "domain": "se.jooble.org",
+      "displayed_url": "https://se.jooble.org \u203a jobb-psykolog-p\u00e5-v\u00e5rdcentral"
+    },
+    {
+      "position": 24,
+      "title": "Idrottspsykologisk r\u00e5dgivare KBT terapeut i G\u00f6teborg",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://ullevikliniken.se/kbt-terapi/",
+      "domain": "ullevikliniken.se",
+      "displayed_url": "https://ullevikliniken.se \u203a kbt-terapi"
+    },
+    {
+      "position": 25,
+      "title": "Pris Dietist, beteendevetare, tolk - G\u00f6teborgs IVF klinik",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://goteborgsivfklinik.se/dietist-psykolog-tolk/",
+      "domain": "goteborgsivfklinik.se",
+      "displayed_url": "https://goteborgsivfklinik.se \u203a dietist-..."
+    },
+    {
+      "position": 26,
+      "title": "Wiveca Allefelt - Leg psykolog - Familjel\u00e4karna i M\u00f6lnlycke ...",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://se.linkedin.com/in/wiveca-allefelt-059188b0",
+      "domain": "se.linkedin.com",
+      "displayed_url": "https://se.linkedin.com \u203a ..."
+    },
+    {
+      "position": 27,
+      "title": "Psykolog. Kognitiv beteendeterapi. KPT. - G\u00f6teborg",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://hagakliniken.se/psykolog/",
+      "domain": "hagakliniken.se",
+      "displayed_url": "https://hagakliniken.se \u203a psykolog"
+    },
+    {
+      "position": 28,
+      "title": "PBM: KBT terapi (kognitiv beteendeterapi) \u0026 utbildningar",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.pbm.se/",
+      "domain": "www.pbm.se",
+      "displayed_url": "https://www.pbm.se"
+    },
+    {
+      "position": 29,
+      "title": "Psykoanalytiker in G\u00f6teborg - Infoisinfo",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.infoisinfo.se/sok/psykoanalytiker/goteborg",
+      "domain": "www.infoisinfo.se",
+      "displayed_url": "https://www.infoisinfo.se \u203a goteborg"
+    },
+    {
+      "position": 30,
+      "title": "Var kan jag f\u00e5 hj\u00e4lp? \u00bb \u00c5SS G\u00f6teborg",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://angestgoteborg.se/var-kan-jag-fa-hjalp/",
+      "domain": "angestgoteborg.se",
+      "displayed_url": "https://angestgoteborg.se \u203a var-kan-jag-fa-hjalp"
+    },
+    {
+      "position": 31,
+      "title": "Psykolog till Team kvinnor - V\u00e4stra G\u00f6talandsregionen",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://vakanser.se/jobb/psykolog+till+team+kvinnor/",
+      "domain": "vakanser.se",
+      "displayed_url": "https://vakanser.se \u203a jobb \u203a psykolog..."
+    },
+    {
+      "position": 32,
+      "title": "Klinisk Psykologi",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://kliniskpsykologi.se/",
+      "domain": "kliniskpsykologi.se",
+      "displayed_url": "https://kliniskpsykologi.se"
+    },
+    {
+      "position": 33,
+      "title": "MOD KBT - Home | Facebook",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.facebook.com/modkbt/",
+      "domain": "www.facebook.com",
+      "displayed_url": "https://www.facebook.com \u203a modkbt"
+    },
+    {
+      "position": 34,
+      "title": "Daniel Sykes - Psykologer - Psykologiguiden",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.psykologiguiden.se/psykologer/?I=3823\u0026N=Daniel+Sykes",
+      "domain": "www.psykologiguiden.se",
+      "displayed_url": "https://www.psykologiguiden.se \u203a ps..."
+    },
+    {
+      "position": 35,
+      "title": "Terapi G\u00f6teborg - Bokadirekt",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.bokadirekt.se/terapi/g%C3%B6teborg",
+      "domain": "www.bokadirekt.se",
+      "displayed_url": "https://www.bokadirekt.se \u203a terapi"
+    },
+    {
+      "position": 36,
+      "title": "N\u00e4rh\u00e4lsan Gibraltargatan v\u00e5rdcentral",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.narhalsan.se/hitta-mottagning/goteborg/goteborg-centrum/narhalsan-gibraltargatan-vardcentral/",
+      "domain": "www.narhalsan.se",
+      "displayed_url": "https://www.narhalsan.se \u203a goteborg"
+    },
+    {
+      "position": 37,
+      "title": "Lediga jobb Psykolog G\u00f6teborg | ledigajobb-g\u00f6teborg.se",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.xn--ledigajobb-gteborg-o3b.se/yrke/psykolog",
+      "domain": "www.xn--ledigajobb-gteborg-o3b.se",
+      "displayed_url": "https://www.ledigajobb-g\u00f6teborg.se \u203a ..."
+    },
+    {
+      "position": 38,
+      "title": "87 lediga jobb f\u00f6r Psykolog Arbete i G\u00f6teborg - Indeed",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://se.indeed.com/Psykolog-Arbete-jobb-i-G%C3%B6teborg",
+      "domain": "se.indeed.com",
+      "displayed_url": "https://se.indeed.com \u203a Psykolog-Arb..."
+    },
+    {
+      "position": 39,
+      "title": "Psykologer till BUP Hisingen - Lediga jobb i G\u00f6teborg",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.goteborgledigajobb.se/jobb/1367972/psykologer-till-bup-hisingen",
+      "domain": "www.goteborgledigajobb.se",
+      "displayed_url": "https://www.goteborgledigajobb.se \u203a ..."
+    },
+    {
+      "position": 40,
+      "title": "S\u00f6k till Sm\u00e4rtHj\u00e4lpen G\u00f6teborg",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.smarthjalpen.se/kliniker/goteborg/",
+      "domain": "www.smarthjalpen.se",
+      "displayed_url": "https://www.smarthjalpen.se \u203a goteborg"
+    },
+    {
+      "position": 41,
+      "title": "V\u00e5rdcentral s\u00f6ker legitimerad psykolog - Din Klinik V\u00e4st ...",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://arbetsformedlingen.se/platsbanken/annonser/25429866",
+      "domain": "arbetsformedlingen.se",
+      "displayed_url": "https://arbetsformedlingen.se \u203a annon..."
+    },
+    {
+      "position": 42,
+      "title": "Dr Claes Davidson - Leg. psykoterapeut i G\u00f6teborg",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "http://www.claesdavidson.se/",
+      "domain": "www.claesdavidson.se",
+      "displayed_url": "http://www.claesdavidson.se"
+    },
+    {
+      "position": 43,
+      "title": "OTooleKBT",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.otoolekbt.se/",
+      "domain": "www.otoolekbt.se",
+      "displayed_url": "https://www.otoolekbt.se"
+    },
+    {
+      "position": 44,
+      "title": "Terapeuter - EMDR Sverige",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://emdr.se/terapeuter/",
+      "domain": "emdr.se",
+      "displayed_url": "https://emdr.se \u203a terapeuter"
+    },
+    {
+      "position": 45,
+      "title": "Om oss - Psychoteraphy | Gibson Konsult AB | G\u00f6teborg",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.gibsonkonsult.se/om-foeretaget",
+      "domain": "www.gibsonkonsult.se",
+      "displayed_url": "https://www.gibsonkonsult.se \u203a om-f..."
+    },
+    {
+      "position": 46,
+      "title": "\u00d6ppettider till Adiels Psykolog G\u00f6teborg",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://xn--ppettider-z7a.nu/adiels-psykolog-goteborg/bbbylgqd",
+      "domain": "xn--ppettider-z7a.nu",
+      "displayed_url": "https://\u00f6ppettider.nu \u203a ... \u203a \u00d6vrigt"
+    },
+    {
+      "position": 47,
+      "title": "Moment Psykologi",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://momentpsykologi.se/",
+      "domain": "momentpsykologi.se",
+      "displayed_url": "https://momentpsykologi.se"
+    },
+    {
+      "position": 48,
+      "title": "Leg. Psykolog, G\u00f6teborg | Om Charlotte",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://charlotte.henschel.se/?page=omcharlotte",
+      "domain": "charlotte.henschel.se",
+      "displayed_url": "https://charlotte.henschel.se \u203a ..."
+    },
+    {
+      "position": 49,
+      "title": "TINA-mottagningen: Specialistmottagning, Psykiatrisk ...",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.tina-mottagningen.se/",
+      "domain": "www.tina-mottagningen.se",
+      "displayed_url": "https://www.tina-mottagningen.se"
+    },
+    {
+      "position": 50,
+      "title": "Boka tid hos en psykolog online | Kry",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.kry.se/psykologhjalp/",
+      "domain": "www.kry.se",
+      "displayed_url": "https://www.kry.se \u203a psykologhjalp"
+    },
+    {
+      "position": 51,
+      "title": "Psykolog G\u00f6teborg - V\u00e4lkommen till Psykologpoolen",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.psykologpoolen.se/",
+      "domain": "www.psykologpoolen.se",
+      "displayed_url": "https://www.psykologpoolen.se"
+    },
+    {
+      "position": 52,
+      "title": "Spine Center G\u00f6teborg",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://goteborg.spinecenter.se/",
+      "domain": "goteborg.spinecenter.se",
+      "displayed_url": "https://goteborg.spinecenter.se"
+    },
+    {
+      "position": 53,
+      "title": "persisktalande psykolog g\u00f6teborg - Abraham House",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "http://theabrahamhouse.org/ofxwzz/persisktalande-psykolog-g%C3%B6teborg",
+      "domain": "theabrahamhouse.org",
+      "displayed_url": "http://theabrahamhouse.org \u203a ofxwzz"
+    },
+    {
+      "position": 54,
+      "title": "L\u00e4karen anm\u00e4ls f\u00f6r vaccin- l\u00f6gner: \u201d200 piloter har d\u00f6tt\u201d",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.expressen.se/gt/lakaren-anmals-for-vaccin--logner-200-piloter-har-dott/",
+      "domain": "www.expressen.se",
+      "displayed_url": "https://www.expressen.se \u203a lakaren-a..."
+    },
+    {
+      "position": 55,
+      "title": "Wennerdal \u0026 Zelleroth Psykologi: Privata psykologer i G\u00f6teborg",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.wennerdalzellerothpsykologi.se/",
+      "domain": "www.wennerdalzellerothpsykologi.se",
+      "displayed_url": "https://www.wennerdalzellerothpsykologi.se"
+    },
+    {
+      "position": 56,
+      "title": "Knivsk\u00e4rning vid R\u00e5g\u00e5rden G\u00f6teborg 2022-02-04 - Flashback",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.flashback.org/t3391157",
+      "domain": "www.flashback.org",
+      "displayed_url": "https://www.flashback.org \u203a ..."
+    },
+    {
+      "position": 57,
+      "title": "Tummen upp f\u00f6r brottskontroll av l\u00e4karstudenter",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://lakartidningen.se/aktuellt/nyheter/2022/02/tummen-upp-for-brottskontroll-av-lakarstudenter/",
+      "domain": "lakartidningen.se",
+      "displayed_url": "https://lakartidningen.se \u203a 2022/02"
+    },
+    {
+      "position": 58,
+      "title": "Naprapater i G\u00f6teborg | Akuttider dagligen - V\u00e4lkommen att ...",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://city-kliniken.com/",
+      "domain": "city-kliniken.com",
+      "displayed_url": "https://city-kliniken.com"
+    },
+    {
+      "position": 59,
+      "title": "10 b\u00e4sta psykologer i G\u00f6teborg - StarOfService",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.starofservice.se/reg/vastra-gotaland/goteborg/goteborg/psykologi",
+      "domain": "www.starofservice.se",
+      "displayed_url": "https://www.starofservice.se \u203a goteborg"
+    },
+    {
+      "position": 60,
+      "title": "Kungsh\u00f6jd psykologmottagning",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.khpm.se/",
+      "domain": "www.khpm.se",
+      "displayed_url": "https://www.khpm.se"
+    },
+    {
+      "position": 61,
+      "title": "Att forma v\u00e5r framtid: bioteknikens m\u00f6jligheter och problem",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://books.google.se/books?id=GS3fdFylCqoC\u0026pg=PA284\u0026lpg=PA284\u0026dq=psykolog+klinik+g%C3%B6teborg\u0026source=bl\u0026ots=ecNeKLFUps\u0026sig=ACfU3U364uYf7T9enNoOzL-ON_bmxmChdA\u0026hl=en\u0026sa=X\u0026ved=2ahUKEwiJ_eKk3_z1AhVytDEKHV-LBSwQ6AF6BQj2ARAD",
+      "domain": "books.google.se",
+      "displayed_url": "https://books.google.se \u203a books"
+    },
+    {
+      "position": 62,
+      "title": "G\u00f6teborg - S:t Lukas",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://sanktlukas.se/goteborg/",
+      "domain": "sanktlukas.se",
+      "displayed_url": "https://sanktlukas.se \u203a goteborg"
+    },
+    {
+      "position": 63,
+      "title": "Svenskt biografiskt handlexikon: alfabetiskt ordnade ...",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://books.google.se/books?id=T2Dl6dOFsTYC\u0026pg=PA23\u0026lpg=PA23\u0026dq=psykolog+klinik+g%C3%B6teborg\u0026source=bl\u0026ots=2IP8gB-ksO\u0026sig=ACfU3U18dZkM3uVTns1UH2R7nCp3rXXb0w\u0026hl=en\u0026sa=X\u0026ved=2ahUKEwiJ_eKk3_z1AhVytDEKHV-LBSwQ6AF6BQjuARAD",
+      "domain": "books.google.se",
+      "displayed_url": "https://books.google.se \u203a books"
+    }
+  ],
+  "inline_images": [
+    {
+      "image_url": "https://assets.serpstack.com/9fbc45b30c5e7fe7.gif",
+      "title": "Image result for psykolog klinik g\u00f6teborg"
+    },
+    {
+      "image_url": "https://assets.serpstack.com/9fbc45b30c5e7fe7.gif",
+      "title": "Image result for psykolog klinik g\u00f6teborg"
+    },
+    {
+      "image_url": "https://assets.serpstack.com/9fbc45b30c5e7fe7.gif",
+      "title": "Image result for psykolog klinik g\u00f6teborg"
+    },
+    {
+      "image_url": "https://assets.serpstack.com/9fbc45b30c5e7fe7.gif",
+      "title": "Image result for psykolog klinik g\u00f6teborg"
+    },
+    {
+      "image_url": "https://assets.serpstack.com/9fbc45b30c5e7fe7.gif",
+      "title": "Image result for psykolog klinik g\u00f6teborg"
+    },
+    {
+      "image_url": "https://assets.serpstack.com/9fbc45b30c5e7fe7.gif",
+      "title": "Image result for psykolog klinik g\u00f6teborg"
+    },
+    {
+      "image_url": "https://assets.serpstack.com/9fbc45b30c5e7fe7.gif",
+      "title": "Image result for psykolog klinik g\u00f6teborg"
+    },
+    {
+      "image_url": "https://assets.serpstack.com/9fbc45b30c5e7fe7.gif",
+      "title": "Image result for psykolog klinik g\u00f6teborg"
+    },
+    {
+      "image_url": "https://assets.serpstack.com/9fbc45b30c5e7fe7.gif",
+      "title": "Image result for psykolog klinik g\u00f6teborg"
+    },
+    {
+      "image_url": "https://assets.serpstack.com/9fbc45b30c5e7fe7.gif",
+      "title": "Image result for psykolog klinik g\u00f6teborg"
+    }
+  ],
+  "local_map": {
+    "url": "http://www.google.com/search?num=100\u0026safe=0\u0026gl=se\u0026hl=en\u0026q=psykolog+klinik+g%C3%B6teborg\u0026npsic=0\u0026rflfq=1\u0026rldoc=1\u0026rllag=57704030,11971827,654\u0026tbm=lcl\u0026sa=X\u0026ved=2ahUKEwiJ_eKk3_z1AhVytDEKHV-LBSwQtgN6BAgWEAg",
+    "coordinates": {
+      "latitude": 57.70403,
+      "longitude": 11.971827
+    },
+    "image_url": "https://assets.serpstack.com/9fbc45b30c5e7fe7.gif"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Psykologkonsult Odd Berg AB",
+      "coordinates": {},
+      "address": "",
+      "rating": 0,
+      "reviews": 0,
+      "type": "",
+      "price": {}
+    },
+    {
+      "position": 2,
+      "title": "G\u00f6teborgs Psykolog \u0026 Psykoterapimottagning",
+      "coordinates": {},
+      "address": "",
+      "rating": 0,
+      "reviews": 0,
+      "type": "",
+      "price": {}
+    },
+    {
+      "position": 3,
+      "title": "G\u00f6teborgs Psykologcentrum",
+      "coordinates": {},
+      "address": "",
+      "rating": 0,
+      "reviews": 0,
+      "type": "",
+      "price": {}
+    }
+  ]
+}

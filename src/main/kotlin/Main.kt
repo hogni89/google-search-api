@@ -45,7 +45,7 @@ fun main(args: Array<String>) {
 
     File("clinics_in_goteborg.txt").printWriter().use { out ->
         urls.forEach {
-            out.println("${it.title}|${it.domain}|${it.url}" )
+            out.println("'${it.title}'|'${it.domain}'|'${it.url}'" )
         }
     }
 }

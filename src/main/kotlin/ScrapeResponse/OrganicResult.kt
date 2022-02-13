@@ -3,6 +3,11 @@ package ScrapeResponse
 
 import com.google.gson.annotations.SerializedName
 
+data class OrganicResults(
+    @SerializedName("organic_results")
+    val organicResult: List<OrganicResult>
+)
+
 data class OrganicResult(
     @SerializedName("cached_page_url")
     val cachedPageUrl: String,

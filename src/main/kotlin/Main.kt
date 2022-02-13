@@ -1,8 +1,6 @@
-import ScrapeResponse.OrganicResult
-import ScrapeResponse.OrganicResults
+import ScrapeResponse.ScrapeResult
 import com.apurebase.arkenv.util.parse
 import com.google.gson.Gson
-import com.google.gson.JsonObject
 import config.Arks
 import config.Settings.searchEndpoint
 import java.net.URL
@@ -31,7 +29,7 @@ fun main(args: Array<String>) {
 
     println(response)
     val gson = Gson()
-    val scrapeResponse = gson.fromJson(response, OrganicResults::class.java)
+    val scrapeResponse = gson.fromJson(response, ScrapeResult::class.java)
 
     println(scrapeResponse.toString())
 

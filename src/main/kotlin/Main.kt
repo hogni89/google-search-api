@@ -2,6 +2,7 @@ import ScrapeResponse.ScrapeResult
 import com.apurebase.arkenv.util.parse
 import com.google.gson.Gson
 import config.Arks
+import config.Arks.outputFileName
 import config.ExportObject
 import config.Settings.searchEndpoint
 import java.io.File
@@ -43,7 +44,7 @@ fun main(args: Array<String>) {
             )
         }
 
-    File("clinics_in_goteborg.txt").printWriter().use { out ->
+    File("export/$outputFileName.txt").printWriter().use { out ->
         urls.forEach {
             out.println("'${it.title}'|'${it.domain}'|'${it.url}'" )
         }

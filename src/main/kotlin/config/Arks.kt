@@ -19,4 +19,8 @@ object Arks : Arkenv() {
         defaultValue = { "us" }
     }
 
+    val outputFileName: String by argument("-o", "--output-file") {
+        defaultValue = { "result" }
+    }
+
 }
